@@ -45,9 +45,7 @@ pickleshare==0.7.4        # via ipython
 prometheus-client==0.3.0  # via notebook
 prompt-toolkit==1.0.15    # via ipython, jupyter-console
 ptyprocess==0.6.0         # via pexpect, terminado
-pyconvert==0.6.3          # via pyrestful
 pygments==2.2.0           # via ipython, jupyter-console, nbconvert, qtconsole
-pyrestful==0.4.2
 python-dateutil==2.7.3    # via alembic, jupyter-client
 python-editor==1.0.3      # via alembic
 pyzmq==17.1.0             # via jupyter-client, notebook
