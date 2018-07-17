@@ -1,0 +1,3 @@
+tornado
+pyrestful
+-e git+https://github.com/yandexdataschool/nbgrader.git@develop#egg=nbgrader
