@@ -1,0 +1,12 @@
+.git
+.idea
+*.egg-info
+build
+dist
+.pytest_cache
+.gitignore
+.dockerignore
+.travis.yml
+Dockerfile
+*.sqlite
+venv
